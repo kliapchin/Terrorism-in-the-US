@@ -4,7 +4,7 @@ Team Members: Kristina L., Nalorm T., Sarah B.
 # Summary
 For this project, my team and I set out to analyze the Global Terrorism Database, maintained by The University of Maryland, which contains data on over 180,000 global terrorist attacks from 1970-2017. 
 
-The following definition of terrorism was used for this project:
+The following definition of terrorism was used for this project: <br> 
 "The threatened or actual use of illegal force and violence by a non-state actor to attain a political, economic, religious, or social goal through fear, coercion, or intimidation” (provided The Global Terrorism Database).
 
 The goal of this project was to identify patterns and changes in terrorist activity in the US before and after the 9/11 attacks. We focused our analysis on the types of attacks, perpetrators, and victims. 
